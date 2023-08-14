@@ -1,3 +1,2 @@
 # odin-recipes
-recipe website
-Building upon basic html knowledge. usage of
+Building upon basic html knowledge. Usage of headings, lists, relative links, images
