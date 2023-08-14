@@ -12,3 +12,8 @@ h1, h2, h3 {
     color: cornflowerblue;
     background-color: black;
 }
+
+a {
+    font-size: 18px;
+    font-weight: bold;
+}
