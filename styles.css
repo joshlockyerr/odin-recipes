@@ -7,6 +7,17 @@ h1 {
     width: 600px;
 }
 
+.recipe-list {
+    margin-top: 24px
+}
+
+.recipe-button {
+    display: block;
+    margin: 8px auto;
+    background-color: #e3f4ff;
+
+}
+
 body {
     font-family: "Courier New", sans-serif ;
 }
