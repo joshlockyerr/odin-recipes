@@ -7,6 +7,14 @@ h1 {
     width: 600px;
 }
 
+h2, h3 {
+    background-color: #e3f4ff;
+    color: darkslategray;
+    width: fit-content;
+    padding:  4px;
+    margin: 8px;
+}
+
 .recipe-list {
     margin-top: 24px
 }
@@ -15,20 +23,41 @@ h1 {
     display: block;
     margin: 8px auto;
     background-color: #e3f4ff;
+    text-align: center;
+    width:fit-content;
+    font-size: 24px;
 
 }
 
 body {
     font-family: "Courier New", sans-serif ;
+    background-color: lightgrey;
+}
+
+p {
+    margin-left: 8px
 }
 
 .description {
     font-weight: bold;
     color: cornflowerblue;
-    background-color: black;
+
 }
 
 a {
     font-size: 18px;
+    font-weight: bold;
+}
+img {
+    margin: 8px;
+}
+
+.recipe-image {
+    display: block;
+    margin: 8px auto;
+}
+
+li {
+    color: cornflowerblue;
     font-weight: bold;
 }
